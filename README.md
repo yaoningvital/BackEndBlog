@@ -5,4 +5,4 @@ Back end study records
 
 名称 | 标签 | 名称 | 标签  
  --- | --- |  --- | --- 
-[Installing the Java Development Kit](https://github.com/yaoningvital/blog/issues/129) | `install JDK` | [](https://github.com/yaoningvital/blog/issues/131) | `JDK` 
+[Installing the Java Development Kit](https://github.com/yaoningvital/BackEndBlog/issues/1) | `install JDK` | [](https://github.com/yaoningvital/blog/issues/131) | `JDK` 
