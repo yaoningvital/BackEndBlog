@@ -9,4 +9,4 @@ Back end study records
 [protected关键字](https://github.com/yaoningvital/BackEndBlog/issues/3) | `protected`| [getClass()--获取一个实例的class](https://github.com/yaoningvital/BackEndBlog/issues/4) | `getClass`
 [判断属性相等的方法](https://github.com/yaoningvital/BackEndBlog/issues/5) | `==` `Objects.equals` | [@Override](https://github.com/yaoningvital/BackEndBlog/issues/6) | `@Override`
 [Data Types in Java](https://github.com/yaoningvital/BackEndBlog/issues/7) | `primitive Data types` | [instance methods: toString() ](https://github.com/yaoningvital/BackEndBlog/issues/8) | `toString`
-[Arrays.toString() ](https://github.com/yaoningvital/BackEndBlog/issues/9) | `Arrays.toString()` `Arrays.deepToString()`
+[Arrays.toString() ](https://github.com/yaoningvital/BackEndBlog/issues/9) | `Arrays.toString()` `Arrays.deepToString()` | [new ArrayList<Employee>(100) 与 new Employee[100]的区别](https://github.com/yaoningvital/BackEndBlog/issues/10) | `ArrayList`
