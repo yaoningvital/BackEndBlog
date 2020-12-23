@@ -12,3 +12,4 @@ Back end study records
 [Arrays.toString() ](https://github.com/yaoningvital/BackEndBlog/issues/9) | `Arrays.toString()` `Arrays.deepToString()` | [new ArrayList<Employee>(100) 与 new Employee[100]的区别](https://github.com/yaoningvital/BackEndBlog/issues/10) | `ArrayList`
 [package](https://github.com/yaoningvital/BackEndBlog/issues/11) | `package` | [eclipse快捷键](https://github.com/yaoningvital/BackEndBlog/issues/12) | `eclipse` `shortcut key`
 [Scanner](https://github.com/yaoningvital/BackEndBlog/issues/13) | `Scanner` | [算数运算符](https://github.com/yaoningvital/BackEndBlog/issues/14) | `+ - * / % ++ --`
+[位运算符](https://github.com/yaoningvital/BackEndBlog/issues/15) | `<<` `>>`
