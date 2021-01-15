@@ -14,4 +14,4 @@ Back end study records
 [Scanner](https://github.com/yaoningvital/BackEndBlog/issues/13) | `Scanner` | [算数运算符](https://github.com/yaoningvital/BackEndBlog/issues/14) | `+ - * / % ++ --`
 [位运算符](https://github.com/yaoningvital/BackEndBlog/issues/15) | `<<` `>>` `>>>` | [字符串类型的数字转成数字](https://github.com/yaoningvital/BackEndBlog/issues/16) | `Integer Wrapper`
 [Reflection - Class 类](https://github.com/yaoningvital/BackEndBlog/issues/17) | `Class Class` `Class类` | [判断一个对象是否实现了某个接口的方法](https://github.com/yaoningvital/BackEndBlog/issues/18) | `Interfaces`  `instanceof`
-[接口的继承](https://github.com/yaoningvital/BackEndBlog/issues/19) | `interface extends`
+[接口的继承](https://github.com/yaoningvital/BackEndBlog/issues/19) | `interface extends` | [接口和抽象类的区别](https://github.com/yaoningvital/BackEndBlog/issues/20) | `abstract classes` `interfaces`
