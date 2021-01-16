@@ -15,4 +15,4 @@ Back end study records
 [位运算符](https://github.com/yaoningvital/BackEndBlog/issues/15) | `<<` `>>` `>>>` | [字符串类型的数字转成数字](https://github.com/yaoningvital/BackEndBlog/issues/16) | `Integer Wrapper`
 [Reflection - Class 类](https://github.com/yaoningvital/BackEndBlog/issues/17) | `Class Class` `Class类` | [判断一个对象是否实现了某个接口的方法](https://github.com/yaoningvital/BackEndBlog/issues/18) | `Interfaces`  `instanceof`
 [接口的继承](https://github.com/yaoningvital/BackEndBlog/issues/19) | `interface extends` | [接口和抽象类的区别](https://github.com/yaoningvital/BackEndBlog/issues/20) | `abstract classes` `interfaces`
-[解决默认方法冲突（Resolving Default Method Conflicts）](https://github.com/yaoningvital/BackEndBlog/issues/21) | `default method`
+[解决默认方法冲突（Resolving Default Method Conflicts）](https://github.com/yaoningvital/BackEndBlog/issues/21) | `default method` | [Lambda Expression](https://github.com/yaoningvital/BackEndBlog/issues/22) | `Lambda Expression`
