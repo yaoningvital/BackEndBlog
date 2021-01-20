@@ -16,4 +16,4 @@ Back end study records
 [Reflection - Class 类](https://github.com/yaoningvital/BackEndBlog/issues/17) | `Class Class` `Class类` | [判断一个对象是否实现了某个接口的方法](https://github.com/yaoningvital/BackEndBlog/issues/18) | `Interfaces`  `instanceof`
 [接口的继承](https://github.com/yaoningvital/BackEndBlog/issues/19) | `interface extends` | [接口和抽象类的区别](https://github.com/yaoningvital/BackEndBlog/issues/20) | `abstract classes` `interfaces`
 [解决默认方法冲突（Resolving Default Method Conflicts）](https://github.com/yaoningvital/BackEndBlog/issues/21) | `default method` | [Lambda Expression](https://github.com/yaoningvital/BackEndBlog/issues/22) | `Lambda Expression`
-[ArrayList 类的实例的removeIf 方法](https://github.com/yaoningvital/BackEndBlog/issues/23) | `ArrayList` `removeIf` `Lambda Expression`
+[ArrayList 类的实例的removeIf 方法](https://github.com/yaoningvital/BackEndBlog/issues/23) | `ArrayList` `removeIf` `Lambda Expression` | [Assertion](https://github.com/yaoningvital/BackEndBlog/issues/24) | `Assertion`
