@@ -17,3 +17,4 @@ Back end study records
 [接口的继承](https://github.com/yaoningvital/BackEndBlog/issues/19) | `interface extends` | [接口和抽象类的区别](https://github.com/yaoningvital/BackEndBlog/issues/20) | `abstract classes` `interfaces`
 [解决默认方法冲突（Resolving Default Method Conflicts）](https://github.com/yaoningvital/BackEndBlog/issues/21) | `default method` | [Lambda Expression](https://github.com/yaoningvital/BackEndBlog/issues/22) | `Lambda Expression`
 [ArrayList 类的实例的removeIf 方法](https://github.com/yaoningvital/BackEndBlog/issues/23) | `ArrayList` `removeIf` `Lambda Expression` | [Assertion](https://github.com/yaoningvital/BackEndBlog/issues/24) | `Assertion`
+[int 与 string 类型的相互转换](https://github.com/yaoningvital/BackEndBlog/issues/25) | `int convert string` `string convert int`
