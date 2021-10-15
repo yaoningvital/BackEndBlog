@@ -6,7 +6,7 @@ Back end study records
 ### Chapter1 -- Introduction to Computers,Programs, and Java
 名称 | 标签 | 名称 | 标签  
  --- | --- |  --- | --- 
-[什么是JVM？](https://github.com/yaoningvital/BackEndBlog/issues/1) | `JVM` | [](https://github.com/yaoningvital/BackEndBlog/issues/2) | `` 
+[什么是JVM？](https://github.com/yaoningvital/BackEndBlog/issues/26) | `JVM` | [](https://github.com/yaoningvital/BackEndBlog/issues/2) | `` 
 
 
 ### Others
