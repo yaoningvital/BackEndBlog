@@ -8,6 +8,11 @@ Back end study records
  --- | --- |  --- | --- 
 [什么是JVM？](https://github.com/yaoningvital/BackEndBlog/issues/26) | `JVM` | [](https://github.com/yaoningvital/BackEndBlog/issues/2) | `` 
 
+### Chapter2 -- Elementary Programming
+名称 | 标签 | 名称 | 标签  
+ --- | --- |  --- | --- 
+[import语句的两种类型](https://github.com/yaoningvital/BackEndBlog/issues/27) | `specific import` `wildcard import` | [](https://github.com/yaoningvital/BackEndBlog/issues/27) | ``  
+
 
 ### Others
 名称 | 标签 | 名称 | 标签  
