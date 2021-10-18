@@ -11,7 +11,7 @@ Back end study records
 ### Chapter2 -- Elementary Programming
 名称 | 标签 | 名称 | 标签  
  --- | --- |  --- | --- 
-[import语句的两种类型](https://github.com/yaoningvital/BackEndBlog/issues/27) | `specific import` `wildcard import` | [](https://github.com/yaoningvital/BackEndBlog/issues/27) | ``  
+[import语句的两种类型](https://github.com/yaoningvital/BackEndBlog/issues/27) | `specific import` `wildcard import` | [获取当前时间的方法](https://github.com/yaoningvital/BackEndBlog/issues/28) | `System.currentTimeMillis()`  
 
 
 ### Others
