@@ -7,7 +7,7 @@ Back end study records
 名称 | 标签 | 名称 | 标签  
  --- | --- |  --- | --- 
 [import语句的两种类型](https://github.com/yaoningvital/BackEndBlog/issues/27) | `specific import` `wildcard import` | [获取当前时间的方法](https://github.com/yaoningvital/BackEndBlog/issues/28) | `System.currentTimeMillis()`
-[利用强制类型转换实现保留小数点后的两位](https://github.com/yaoningvital/BackEndBlog/issues/29) | `type casting` | [](https://github.com/yaoningvital/BackEndBlog/issues/28) | ``
+[利用强制类型转换实现保留小数点后的两位](https://github.com/yaoningvital/BackEndBlog/issues/29) | `type casting` | [溢出会不会造成运行时错误？](https://github.com/yaoningvital/BackEndBlog/issues/30) | `overflow`
 
 
 
