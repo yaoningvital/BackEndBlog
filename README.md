@@ -3,15 +3,18 @@ Back end study records
 
 ## Java
 
+### Chapter2 -- Elementary Programming
+名称 | 标签 | 名称 | 标签  
+ --- | --- |  --- | --- 
+[import语句的两种类型](https://github.com/yaoningvital/BackEndBlog/issues/27) | `specific import` `wildcard import` | [获取当前时间的方法](https://github.com/yaoningvital/BackEndBlog/issues/28) | `System.currentTimeMillis()`
+[利用强制类型转换实现保留小数点后的两位](https://github.com/yaoningvital/BackEndBlog/issues/29) | `type casting` | [](https://github.com/yaoningvital/BackEndBlog/issues/28) | ``
+
+
+
 ### Chapter1 -- Introduction to Computers,Programs, and Java
 名称 | 标签 | 名称 | 标签  
  --- | --- |  --- | --- 
 [什么是JVM？](https://github.com/yaoningvital/BackEndBlog/issues/26) | `JVM` | [](https://github.com/yaoningvital/BackEndBlog/issues/2) | `` 
-
-### Chapter2 -- Elementary Programming
-名称 | 标签 | 名称 | 标签  
- --- | --- |  --- | --- 
-[import语句的两种类型](https://github.com/yaoningvital/BackEndBlog/issues/27) | `specific import` `wildcard import` | [获取当前时间的方法](https://github.com/yaoningvital/BackEndBlog/issues/28) | `System.currentTimeMillis()`  
 
 
 ### Others
