@@ -3,6 +3,11 @@ Back end study records
 
 ## Java
 
+### Chapter4 -- Mathematical Functions, Characters, and Strings
+名称 | 标签 | 名称 | 标签  
+ --- | --- |  --- | --- 
+[Math.PI  Math.E](https://github.com/yaoningvital/BackEndBlog/issues/37) | `Math.PI` `Math.E` | [](https://github.com/yaoningvital/BackEndBlog/issues/34) |  
+
 ### Chapter3 -- Selections
 名称 | 标签 | 名称 | 标签  
  --- | --- |  --- | --- 
