@@ -7,7 +7,7 @@ Back end study records
 名称 | 标签 | 名称 | 标签  
  --- | --- |  --- | --- 
 [两个浮点数的相等比较是不可靠的](https://github.com/yaoningvital/BackEndBlog/issues/33) | `equality test` `floating-point value` | [利用Math.random()生成0-9的数字](https://github.com/yaoningvital/BackEndBlog/issues/34) | `Math.random()` 
-[生成一个随机整数d，使得 10 ≤ d ≤ 50](https://github.com/yaoningvital/BackEndBlog/issues/35) | `Math.random()` | [](https://github.com/yaoningvital/BackEndBlog/issues/34) | 
+[生成一个随机整数d，使得 10 ≤ d ≤ 50](https://github.com/yaoningvital/BackEndBlog/issues/35) | `Math.random()` | [System.exit(status)](https://github.com/yaoningvital/BackEndBlog/issues/36) | `System.exit()`
 
 ### Chapter2 -- Elementary Programming
 名称 | 标签 | 名称 | 标签  
