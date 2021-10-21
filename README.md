@@ -56,4 +56,4 @@ Back end study records
 ### Java
 名称 | 标签 | 名称 | 标签  
  --- | --- |  --- | --- 
-[怎样生成一个double类型的值d，范围在 0 ≤ d ≤ 1]() | `Math.Random`  | [](https://github.com/yaoningvital/BackEndBlog/issues/38) | 
+怎样生成一个double类型的值d，范围在 0 ≤ d ≤ 1 | `Math.Random`  | [](https://github.com/yaoningvital/BackEndBlog/issues/38) | 
