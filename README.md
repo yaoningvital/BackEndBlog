@@ -49,3 +49,11 @@ Back end study records
 [解决默认方法冲突（Resolving Default Method Conflicts）](https://github.com/yaoningvital/BackEndBlog/issues/21) | `default method` | [Lambda Expression](https://github.com/yaoningvital/BackEndBlog/issues/22) | `Lambda Expression`
 [ArrayList 类的实例的removeIf 方法](https://github.com/yaoningvital/BackEndBlog/issues/23) | `ArrayList` `removeIf` `Lambda Expression` | [Assertion](https://github.com/yaoningvital/BackEndBlog/issues/24) | `Assertion`
 [int 与 string 类型的相互转换](https://github.com/yaoningvital/BackEndBlog/issues/25) | `conversion between int and string`
+
+
+## 待解决的问题？？？
+
+### Java
+名称 | 标签 | 名称 | 标签  
+ --- | --- |  --- | --- 
+[怎样生成一个double类型的值d，范围在 0 ≤ d ≤ 1](https://github.com/yaoningvital/BackEndBlog/issues/37) | `Math.Random`  | [](https://github.com/yaoningvital/BackEndBlog/issues/38) | 
