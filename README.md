@@ -8,7 +8,7 @@ Back end study records
  --- | --- |  --- | --- 
 [Math.PI , Math.E](https://github.com/yaoningvital/BackEndBlog/issues/37) | `Math.PI` `Math.E` | [Math.rint() vs Math.round()](https://github.com/yaoningvital/BackEndBlog/issues/38) | `Math.rint()` `Math.round()`  
 [Unicode and ASCII code](https://github.com/yaoningvital/BackEndBlog/issues/39) | `Unicode` `ASCII` | [Escape Sequences](https://github.com/yaoningvital/BackEndBlog/issues/40) | `escape sequences` `escape character`  
-[char型与数值类型之间的转换](https://github.com/yaoningvital/BackEndBlog/issues/41) | `char` `numeric type` | [](https://github.com/yaoningvital/BackEndBlog/issues/40) |  
+[char型与数值类型之间的转换](https://github.com/yaoningvital/BackEndBlog/issues/41) | `char` `numeric type` | [比较字符、测试字符](https://github.com/yaoningvital/BackEndBlog/issues/42) | `comparing characters`  `testing characters`  
 
 ### Chapter3 -- Selections
 名称 | 标签 | 名称 | 标签  
