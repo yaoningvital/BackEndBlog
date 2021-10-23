@@ -9,7 +9,7 @@ Back end study records
 [Math.PI , Math.E](https://github.com/yaoningvital/BackEndBlog/issues/37) | `Math.PI` `Math.E` | [Math.rint() vs Math.round()](https://github.com/yaoningvital/BackEndBlog/issues/38) | `Math.rint()` `Math.round()`  
 [Unicode and ASCII code](https://github.com/yaoningvital/BackEndBlog/issues/39) | `Unicode` `ASCII` | [Escape Sequences](https://github.com/yaoningvital/BackEndBlog/issues/40) | `escape sequences` `escape character`  
 [char型与数值类型之间的转换](https://github.com/yaoningvital/BackEndBlog/issues/41) | `char` `numeric type` | [比较字符、测试字符](https://github.com/yaoningvital/BackEndBlog/issues/42) | `comparing characters`  `testing characters`  
-[String对象的几个方法](https://github.com/yaoningvital/BackEndBlog/issues/43) | `instance method` | []() | ``
+[String对象的几个方法](https://github.com/yaoningvital/BackEndBlog/issues/43) | `instance method` | [从控制台读取字符串的两个方法:next()和nextLine()](https://github.com/yaoningvital/BackEndBlog/issues/44) | `next()` `nextLine()`
 
 ### Chapter3 -- Selections
 名称 | 标签 | 名称 | 标签  
